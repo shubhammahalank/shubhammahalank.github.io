@@ -1,2 +1,2 @@
 # shubhammahalank.github.io
-Professional Portfolio
+Resume / CV Portfolio
