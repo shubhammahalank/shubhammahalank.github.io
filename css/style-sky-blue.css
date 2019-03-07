@@ -29,7 +29,7 @@ a {
 }
 
 a:hover {
-  color: #48abec;
+  color: #1e1e1e;
   text-decoration: none;
   transition: all 0.5s ease-in-out;
 }
@@ -39,15 +39,15 @@ a:hover {
 }
 
 .color-a {
-  color: #48abec;
+  color: #1e1e1e;
 }
 
 .color-d {
-  color: #f5f5f5;
+  color: #1e1e1e;
 }
 
 .color-text-a {
-  color: #4e4e4e;
+  color: #1e1e1e;
 }
 
 .box-shadow,
@@ -60,7 +60,7 @@ a:hover {
 
 .box-shadow-a,
 .button:hover {
-  box-shadow: 0 0 0 4px #d7ebf8;
+  box-shadow: 0 0 0 4px #1e1e1e;
 }
 
 .display-5 {
@@ -90,7 +90,7 @@ a:hover {
 }
 
 .overlay-mf {
-  background-color: #48abec;
+  background-color: #1e1e1e;
 }
 
 .overlay-mf {
@@ -154,13 +154,13 @@ a:hover {
 }
 
 .subtitle-a {
-  color: #4e4e4e;
+  color: #1e1e1e;
 }
 
 .line-mf {
   width: 40px;
   height: 5px;
-  background-color: #48abec;
+  background-color: #1e1e1e;
   margin: 0 auto;
 }
 
@@ -179,7 +179,7 @@ a:hover {
   content: '';
   position: absolute;
   height: 3px;
-  background-color: #48abec;
+  background-color: #1e1e1e;
   width: 100px;
   bottom: -12px;
 }
@@ -193,7 +193,7 @@ a:hover {
 .box-shadow-full {
   padding: 3rem 1.25rem;
   position: relative;
-  background-color: #fff;
+  background-color: #1e1e1e;
   margin-bottom: 3rem;
   z-index: 2;
   box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.06), 0 2px 5px 0 rgba(0, 0, 0, 0.2);
@@ -216,14 +216,14 @@ a:hover {
   border-radius: 50%;
   line-height: 1.4;
   margin: 0 15px 0 0;
-  box-shadow: 0 0 0 3px #48abec;
+  box-shadow: 0 0 0 3px #1e1e1e;
   transition: all 500ms ease;
 }
 
 .socials .ico-circle:hover {
-  background-color: #48abec;
+  background-color: #1e1e1e;
   color: #fff;
-  box-shadow: 0 0 0 3px #d7ebf8;
+  box-shadow: 0 0 0 3px #1e1e1e;
   transition: all 500ms ease;
 }
 
